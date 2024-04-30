@@ -1,2 +1,4 @@
 # Projects
-Portfolio highlighting data analytics projects. Demonstrates expertise in data preparation, cleaning, and analysis techniques.
+Welcome! This is my portfolio highlighting my data analytics projects. 
+
+A key reasonfor  why I worked on these projects is to demonstrate my expertise in data preparation, cleaning, and analysis techniques.
