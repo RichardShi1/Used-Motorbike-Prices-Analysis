@@ -1,8 +1,8 @@
-# Case Study: Analysing the Sydney Used Motorbike Market
+# Case Study: Analysing the Sydney Used Motorbike Market 🏍 
 
 ## Introduction
-This project, part of the Google Data Analytics Professional Certificate, aims to analyse the Sydney used motorbike market data to determine key factors influencing prices. 
-
+This case study, part of the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics), aims to analyse the Sydney used motorbike market data to determine key factors influencing prices.
+ 
 Employing the six-step process for data analysis, we derive insights to empower prospective buyers.
 
 ## Table of Contents
@@ -16,30 +16,17 @@ Employing the six-step process for data analysis, we derive insights to empower 
 ### 1.1 Problem Statement
 Prospective buyers face challenges navigating the Sydney used motorbike market. This project seeks to provide insights for informed purchasing decisions.
 
-### 1.2 Case-Study Objectives
-1. Identify trends and insights.
-2. Empower buyers with informed purchasing decisions.
+### 1.2 Objectives
+1. Identify trends and insights
+2. Empower buyers with informed purchasing decisions
 
-### 1.3 Key Stakeholders
-- Prospective buyers and sellers
-- Insurance companies
-- Motorbike dealerships
-
-### 1.4 Deliverables
-1. Clear problem statement
-2. Data sources description
-3. Data cleaning documentation 
-4. Analysis
-5. Visualisations and findings
-6. High-level recommendations
-
-### 1.5 Tools
+### 1.3 Tools
 - Google Sheets - Data cleaning, manipulation, transformation, and analysis 
 - Tableau Public - Data visualisations
 
 ## Step 2 - Prepare
 ### 2.1 Data Sources
-Data collected from Facebook Marketplace, Gumtree, and Bikesales, focusing on Yamaha MT-03 model listings.
+Data collected from [Facebook Marketplace](https://www.facebook.com/marketplace/sydney/), [Gumtree](https://www.gumtree.com.au/s-motorcycles/sydney-city-sydney/yamaha+mt03/k0c18626l3003795), and [Bikesales](https://www.bikesales.com.au/bikes/yamaha/mt-03-abs-321-mt03la/new-south-wales-state/sydney-region/), focusing on Yamaha MT-03 model listings.
 
 ### 2.2 Data Collected
 Focused on Yamaha MT-03 model sales listings data for depth and popularity.
