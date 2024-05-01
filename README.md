@@ -3,7 +3,14 @@
 ## Introduction
 This project, part of the Google Data Analytics Professional Certificate, aims to analyse the Sydney used motorbike market data to determine key factors influencing prices. 
 
-Employing the six step process for data analysis, we derive insights to empower prospective buyers.
+Employing the six-step process for data analysis, we derive insights to empower prospective buyers.
+
+## Table of Contents
+- [Step 1 - Ask](#step-1---ask)
+- [Step 2 - Prepare](#step-2---prepare)
+- [Step 3 - Process](#step-3---process)
+- [Step 4 - Analyse](#step-4---analyse)
+- [Step 5 & 6 - Share and Act](#step-5--6---share-and-act)
 
 ## Step 1 - Ask
 ### 1.1 Problem Statement
@@ -79,7 +86,7 @@ Converted data types to different types to prepare for subsequent analysis.
   
 ![image](https://github.com/RichardShi1/Analysis-of-Used-Motorbike-Prices/assets/168516843/46f8b56a-6dfb-4372-b834-ead0331333d0)
 
-## Steps 4 - Analyse
+## Step 4 - Analyse
 ### 4.1 Linear Regression Analysis
 #### 4.1.1 Manufacture Year
 ![image](https://github.com/RichardShi1/Analysis-of-Used-Motorbike-Prices/assets/168516843/6dde4d45-683a-46ae-8cba-96d5a2b61c49)
