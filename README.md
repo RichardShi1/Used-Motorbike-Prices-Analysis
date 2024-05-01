@@ -1,4 +1,3 @@
-# Projects
-Welcome! This is my portfolio highlighting my data analytics projects. 
+# Making Informed Choices: Analysing Used Motorbikes for Best Value
 
-A key reasonfor  why I worked on these projects is to demonstrate my expertise in data preparation, cleaning, and analysis techniques.
+Introduction
